@@ -1,1 +1,2 @@
 # jurnal
+# jurnal riset bwo
